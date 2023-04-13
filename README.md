@@ -1,2 +1,2 @@
-# til
+# TIL
 (Things || Today) I Learned
