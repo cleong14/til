@@ -11,6 +11,7 @@
 * [Espanso](#espanso)
 * [Git](#git)
 * [Go](#go)
+* [Nvim](#nvim)
 * [WezTerm](#wezterm)
 * [Zk](#zk)
 * [Non-Technical](#non-technical)
@@ -31,6 +32,10 @@
 
 - [Go Automatically Handles Conversion Between Values and Pointers for Method Calls](./go/go-automatically-handles-conversion-between-values-and-pointers-for-method-calls.md)
 - [Coupling vs Decoupling Interfaces](./go/coupling-vs-decoupling-interfaces.md)
+
+### Nvim
+
+- [Starting an Nvim Terminal Buffer](./nvim/starting-an-nvim-terminal-buffer.md)
 
 ### WezTerm
 
