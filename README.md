@@ -11,6 +11,7 @@
 * [Espanso](#espanso)
 * [Git](#git)
 * [Go](#go)
+* [WezTerm](#wezterm)
 * [Zk](#zk)
 * [Non-Technical](#non-technical)
 
@@ -30,6 +31,10 @@
 
 - [Go Automatically Handles Conversion Between Values and Pointers for Method Calls](./go/go-automatically-handles-conversion-between-values-and-pointers-for-method-calls.md)
 - [Coupling vs Decoupling Interfaces](./go/coupling-vs-decoupling-interfaces.md)
+
+### WezTerm
+
+- [Configure Patched Font with Nerd Font Fallback to Fix Glyph Issues](./wezterm/configure-patched-font-with-nerd-font-fallback-to-fix-glyph-issues.md)
 
 ### Zk
 
