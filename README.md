@@ -35,6 +35,7 @@
 
 ### Nvim
 
+- [How to Access Shell Environment Variables in Nvim](./nvim/how-to-access-shell-environment-variables-in-nvim.md)
 - [Starting an Nvim Terminal Buffer](./nvim/starting-an-nvim-terminal-buffer.md)
 
 ### WezTerm
