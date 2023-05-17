@@ -8,6 +8,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [Career Development](#career-development)
 * [Espanso](#espanso)
 * [Git](#git)
 * [Go](#go)
@@ -20,6 +21,10 @@
 <!-- vim-markdown-toc -->
 
 ---
+
+### Career Development
+
+- [Belbin Team Roles](./career-development/belbin-team-roles.md)
 
 ### Espanso
 
@@ -51,8 +56,4 @@
 
 - [No Input Option Skips 'Do You Wish to Edit Existing Note' Prompt](./zk/no-input-option-skips-do-you-wish-to-edit-existing-note-prompt.md)
 - [Searching for Notes that Match a Query](./zk/searching-for-notes-that-match-a-query.md)
-
-### Non-Technical
-
-- [Belbin Team Roles](./career-development/belbin-team-roles.md)
 
