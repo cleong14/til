@@ -12,6 +12,7 @@
 * [Espanso](#espanso)
 * [Git](#git)
 * [Go](#go)
+* [Jira](#jira)
 * [Nvim](#nvim)
 * [WezTerm](#wezterm)
 * [Writing](#writing)
@@ -38,6 +39,10 @@
 
 - [Go Automatically Handles Conversion Between Values and Pointers for Method Calls](./go/go-automatically-handles-conversion-between-values-and-pointers-for-method-calls.md)
 - [Coupling vs Decoupling Interfaces](./go/coupling-vs-decoupling-interfaces.md)
+
+### Jira
+
+- [Create a New Jira Ticket With Custom Fields From the CLI](./jira/create-a-new-jira-ticket-with-custom-fields-from-the-cli.md)
 
 ### Nvim
 
