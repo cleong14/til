@@ -13,6 +13,7 @@
 * [Go](#go)
 * [Nvim](#nvim)
 * [WezTerm](#wezterm)
+* [Writing](#writing)
 * [Zk](#zk)
 * [Non-Technical](#non-technical)
 
@@ -41,6 +42,10 @@
 ### WezTerm
 
 - [Fix Fonts After Nerd Fonts Update](./wezterm/fix-fonts-after-nerd-fonts-update.md)
+
+### Writing
+
+- [Title Case Rules for Common Words](./writing/title-case-rules-for-common-words.md)
 
 ### Zk
 
