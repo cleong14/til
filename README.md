@@ -12,13 +12,13 @@
 * [Espanso](#espanso)
 * [Git](#git)
 * [Go](#go)
+* [Gzip](#gzip)
 * [Jira](#jira)
 * [Navi](#navi)
 * [Nvim](#nvim)
 * [WezTerm](#wezterm)
 * [Writing](#writing)
 * [Zk](#zk)
-* [Non-Technical](#non-technical)
 
 <!-- vim-markdown-toc -->
 
@@ -40,6 +40,10 @@
 
 - [Go Automatically Handles Conversion Between Values and Pointers for Method Calls](./go/go-automatically-handles-conversion-between-values-and-pointers-for-method-calls.md)
 - [Coupling vs Decoupling Interfaces](./go/coupling-vs-decoupling-interfaces.md)
+
+### Gzip
+
+- [Decompress a File Replacing It with the Original Uncompressed Version Using Gzip](./gzip/decompress-a-file-replacing-it-with-the-original-uncompressed-version-using-gzip.md)
 
 ### Jira
 
