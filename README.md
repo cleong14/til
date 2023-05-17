@@ -13,6 +13,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Jira](#jira)
+* [Navi](#navi)
 * [Nvim](#nvim)
 * [WezTerm](#wezterm)
 * [Writing](#writing)
@@ -43,6 +44,10 @@
 ### Jira
 
 - [Create a New Jira Ticket With Custom Fields From the CLI](./jira/create-a-new-jira-ticket-with-custom-fields-from-the-cli.md)
+
+### Navi
+
+- [Add Your Own Cheats to Navi](./navi/add-your-own-cheats-to-navi.md)
 
 ### Nvim
 
