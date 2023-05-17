@@ -1,4 +1,9 @@
-# May 02, 2023 TIL
+# Fix Fonts After Nerd Fonts Update
+
+When there's an update to Nerd Fonts, the fonts for tools start displaying
+weird. Here's how to fix/workaround the issue.
+
+> Pro Tip: For an easier time troubleshooting & fixing Nerd Fonts, check out [loichyan/nerdfix: 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.](https://github.com/loichyan/nerdfix)
 
 ## Configure Patched Font with Nerd Font Fallback to Fix Glyph Issues
 

@@ -40,7 +40,7 @@
 
 ### WezTerm
 
-- [Configure Patched Font with Nerd Font Fallback to Fix Glyph Issues](./wezterm/configure-patched-font-with-nerd-font-fallback-to-fix-glyph-issues.md)
+- [Fix Fonts After Nerd Fonts Update](./wezterm/fix-fonts-after-nerd-fonts-update.md)
 
 ### Zk
 
