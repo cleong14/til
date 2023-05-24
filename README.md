@@ -19,6 +19,7 @@
 * [WezTerm](#wezterm)
 * [Writing](#writing)
 * [Zk](#zk)
+* [Zsh](#zsh)
 
 <!-- vim-markdown-toc -->
 
@@ -70,4 +71,8 @@
 
 - [No Input Option Skips 'Do You Wish to Edit Existing Note' Prompt](./zk/no-input-option-skips-do-you-wish-to-edit-existing-note-prompt.md)
 - [Searching for Notes that Match a Query](./zk/searching-for-notes-that-match-a-query.md)
+
+### Zsh
+
+- [The Difference Between Using Glob and Noglob When Specifying Zsh Completion Options](./zsh/the-difference-between-using-glob-and-noglob-when-specifying-zsh-completion-options.md)
 
