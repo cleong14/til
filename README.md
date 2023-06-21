@@ -8,6 +8,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [AI](#ai)
 * [Career Development](#career-development)
 * [Espanso](#espanso)
 * [Git](#git)
@@ -24,6 +25,10 @@
 <!-- vim-markdown-toc -->
 
 ---
+
+### AI
+
+- [AI Prompt - Q&A: How Do I Write Cobra-Cli Command Output to a CSV File in Golang?](./ai/ai-prompt-q-and-a-how-do-i-write-cobra-cli-command-output-to-a-csv-file-in-golang.md)
 
 ### Career Development
 
