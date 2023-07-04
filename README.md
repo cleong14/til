@@ -60,6 +60,7 @@
 ### Mac
 
 - [How to Change the macOS Selection Color From the Terminal](./mac/how-to-change-the-macos-selection-color-from-the-terminal.md)
+- [How to Install Java on a Mac Using Homebrew](./mac/how-to-install-java-on-a-mac-using-homebrew.md)
 
 ### Navi
 
