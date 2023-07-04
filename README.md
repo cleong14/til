@@ -9,6 +9,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [AI](#ai)
+* [Bash](#bash)
 * [Career Development](#career-development)
 * [Espanso](#espanso)
 * [Git](#git)
@@ -32,6 +33,10 @@
 
 - [AI Prompt - Q&A: How Do I Write Cobra-Cli Command Output to a CSV File in Golang?](./ai/ai-prompt-q-and-a-how-do-i-write-cobra-cli-command-output-to-a-csv-file-in-golang.md)
 - [AI Prompt - Q&A: How Do I Write Cobra-Cli Command Output to a JSON File in Golang?](./ai/ai-prompt-q-and-a-how-do-i-write-cobra-cli-command-output-to-a-json-file-in-golang.md)
+
+### Bash
+
+- [How "Exit Traps" Can Make Your Bash Scripts Way More Robust And Reliable](./bash/how-exit-traps-can-make-your-bash-scripts-way-more-robust-and-reliable.md)
 
 ### Career Development
 
