@@ -15,6 +15,7 @@
 * [Go](#go)
 * [Gzip](#gzip)
 * [Jira](#jira)
+* [Mac](#mac)
 * [Navi](#navi)
 * [Nvim](#nvim)
 * [WezTerm](#wezterm)
@@ -55,6 +56,10 @@
 ### Jira
 
 - [Create a New Jira Ticket With Custom Fields From the CLI](./jira/create-a-new-jira-ticket-with-custom-fields-from-the-cli.md)
+
+### Mac
+
+- [How to Change the macOS Selection Color From the Terminal](./mac/how-to-change-the-macos-selection-color-from-the-terminal.md)
 
 ### Navi
 
