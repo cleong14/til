@@ -75,6 +75,7 @@
 ### Nvim
 
 - [How to Access Shell Environment Variables in Nvim](./nvim/how-to-access-shell-environment-variables-in-nvim.md)
+- [How to Build Neovim From Source](./nvim/how-to-build-neovim-from-source.md)
 - [Starting an Nvim Terminal Buffer](./nvim/starting-an-nvim-terminal-buffer.md)
 
 ### Productivity
