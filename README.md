@@ -11,6 +11,7 @@
 * [AI](#ai)
 * [Bash](#bash)
 * [Career Development](#career-development)
+* [Cyber Security](#cyber-security)
 * [Espanso](#espanso)
 * [Git](#git)
 * [Go](#go)
@@ -41,6 +42,10 @@
 ### Career Development
 
 - [Belbin Team Roles](./career-development/belbin-team-roles.md)
+
+### Cyber Security
+
+- [Pentester Roadmap](./cybersecurity/pentester-roadmap.md)
 
 ### Espanso
 
