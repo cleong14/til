@@ -46,6 +46,7 @@
 ### Cyber Security
 
 - [Pentester Roadmap](./cybersecurity/pentester-roadmap.md)
+- [Hack The Box Certifications](./cybersecurity/hackthebox-certifications.md)
 
 ### Espanso
 
