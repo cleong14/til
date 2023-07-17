@@ -17,6 +17,7 @@
 * [Go](#go)
 * [Gzip](#gzip)
 * [Jira](#jira)
+* [Learning](#learning)
 * [Mac](#mac)
 * [Navi](#navi)
 * [Nvim](#nvim)
@@ -68,6 +69,10 @@
 ### Jira
 
 - [Create a New Jira Ticket With Custom Fields From the CLI](./jira/create-a-new-jira-ticket-with-custom-fields-from-the-cli.md)
+
+### Learning
+
+- [Adult Learning Theories And Difficulties](./learning/adult-learning-theories-and-difficulties.md)
 
 ### Mac
 
