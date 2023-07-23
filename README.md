@@ -22,6 +22,7 @@
 * [Navi](#navi)
 * [Nvim](#nvim)
 * [Productivity](#productivity)
+* [Web](#web)
 * [WezTerm](#wezterm)
 * [Writing](#writing)
 * [Zk](#zk)
@@ -92,6 +93,10 @@
 ### Productivity
 
 - [The PARA Method: The Simple System for Organizing Your Digital Life in Seconds](./productivity/the-para-method-the-simple-system-for-organizing-your-digital-life-in-seconds.md)
+
+### Web
+
+- [How to Retain the Links and Format when Saving a Webpage as a PDF](./web/how-to-retain-the-links-and-format-when-saving-a-webpage-as-a-pdf.md)
 
 ### WezTerm
 
