@@ -1,8 +1,12 @@
 # June 20, 2023 TIL - AI Prompt - Q&A: How Do I Write Cobra-Cli Command Output to a CSV File in Golang?
 
-## AI Prompt - Q&A
+## AI Prompt
 
-> _"How Do I Write Cobra-Cli Command Output to a CSV File in Golang?"_
+### Q&A
+
+```
+How Do I Write Cobra-Cli Command Output to a CSV File in Golang?
+```
 
 ## AI Response
 

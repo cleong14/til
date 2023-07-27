@@ -2,6 +2,8 @@
 
 ## AI Prompt
 
+### Q&A
+
 ```
 Step-by-step, how do you plan and structure a 2-3 day long virtual hackathon across 6 different timezones?
 ```
