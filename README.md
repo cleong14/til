@@ -68,6 +68,7 @@
 
 - [Go Automatically Handles Conversion Between Values and Pointers for Method Calls](./go/go-automatically-handles-conversion-between-values-and-pointers-for-method-calls.md)
 - [Coupling vs Decoupling Interfaces](./go/coupling-vs-decoupling-interfaces.md)
+- [Map Data Structures in Go Are Not Ordered by Default](./go/map-data-structures-in-go-are-not-ordered-by-default.md)
 
 ### Gzip
 
