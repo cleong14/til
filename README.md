@@ -23,6 +23,7 @@
 * [Navi](#navi)
 * [Nvim](#nvim)
 * [Productivity](#productivity)
+* [Versioning](#versioning)
 * [Web](#web)
 * [WezTerm](#wezterm)
 * [Writing](#writing)
@@ -101,6 +102,10 @@
 ### Productivity
 
 - [The PARA Method: The Simple System for Organizing Your Digital Life in Seconds](./productivity/the-para-method-the-simple-system-for-organizing-your-digital-life-in-seconds.md)
+
+### Versioning
+
+- [Semantic Versioning 2.0.0](./versioning/semantic-versioning-2.0.0.md)
 
 ### Web
 
