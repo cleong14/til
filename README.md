@@ -13,6 +13,7 @@
 * [Career Development](#career-development)
 * [Command-line](#command-line)
 * [Cyber Security](#cyber-security)
+* [DefectDojo](#defectdojo)
 * [Espanso](#espanso)
 * [Git](#git)
 * [Go](#go)
@@ -58,6 +59,10 @@
 - [Pentester Roadmap](./cybersecurity/pentester-roadmap.md)
 - [Hack The Box Certifications](./cybersecurity/hackthebox-certifications.md)
 - [Shadowserver Foundation Dashboard](./cybersecurity/shadowserver-foundation-dashboard.md)
+
+### DefectDojo
+
+- [DefectDojo Filter for All Active Findings](./defectdojo/defectdojo-filter-for-all-active-findings.md)
 
 ### Espanso
 
