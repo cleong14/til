@@ -104,6 +104,7 @@
 - [How to Access Shell Environment Variables in Nvim](./nvim/how-to-access-shell-environment-variables-in-nvim.md)
 - [How to Build Neovim From Source](./nvim/how-to-build-neovim-from-source.md)
 - [Starting an Nvim Terminal Buffer](./nvim/starting-an-nvim-terminal-buffer.md)
+- [Use Normal-Mode Motions in Command-Line Mode in Vim/Nvim](./nvim/use-normal-mode-motions-in-command-line-mode-in-vim-nvim.md)
 
 ### Productivity
 
