@@ -106,6 +106,7 @@
 - [Starting an Nvim Terminal Buffer](./nvim/starting-an-nvim-terminal-buffer.md)
 - [Use Normal-Mode Motions in Command-Line Mode in Vim/Nvim](./nvim/use-normal-mode-motions-in-command-line-mode-in-vim-nvim.md)
 - [Modelines](./nvim/modelines.md)
+- [How to Pipe Shell Command Output Into Current Buffer in Vim/Nvim](./nvim/how-to-pipe-shell-command-output-into-current-buffer-in-vim-nvim.md)
 
 ### Productivity
 
