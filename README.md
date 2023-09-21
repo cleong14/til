@@ -45,6 +45,7 @@
 ### Bash
 
 - [How "Exit Traps" Can Make Your Bash Scripts Way More Robust And Reliable](./bash/how-exit-traps-can-make-your-bash-scripts-way-more-robust-and-reliable.md)
+- [Bash Here Documents & Here Strings](./bash/bash-here-documents-and-here-strings.md)
 
 ### Career Development
 
