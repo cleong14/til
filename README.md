@@ -18,6 +18,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Gzip](#gzip)
+* [Homebrew](#homebrew)
 * [Jira](#jira)
 * [Learning](#learning)
 * [Mac](#mac)
@@ -84,6 +85,10 @@
 ### Gzip
 
 - [Decompress a File Replacing It with the Original Uncompressed Version Using Gzip](./gzip/decompress-a-file-replacing-it-with-the-original-uncompressed-version-using-gzip.md)
+
+### Homebrew
+
+- [How to Reinstall a Homebrew Package and All its Dependencies](./homebrew/how-to-reinstall-a-homebrew-package-and-all-its-dependencies.md)
 
 ### Jira
 
