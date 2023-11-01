@@ -14,6 +14,7 @@
 * [Command-line](#command-line)
 * [Cyber Security](#cyber-security)
 * [DefectDojo](#defectdojo)
+* [Encoding](#encoding)
 * [Espanso](#espanso)
 * [Git](#git)
 * [Go](#go)
@@ -67,6 +68,10 @@
 
 - [DefectDojo Filter for All Active Findings](./defectdojo/defectdojo-filter-for-all-active-findings.md)
 - [DefectDojo Finding Statuses & How Each Status Affects Future Finding Statuses on (Re)Import-Scan](./defectdojo/defectdojo-finding-statuses-and-how-each-status-affects-future-finding-statuses-on-reimport-import-scan.md)
+
+### Encoding
+
+- [The Base64 Alphabet Lookup Table](./encoding/the-base64-alphabet-lookup-table.md)
 
 ### Espanso
 
