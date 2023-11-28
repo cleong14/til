@@ -53,6 +53,7 @@
 ### Career Development
 
 - [Belbin Team Roles](./career-development/belbin-team-roles.md)
+- [Brag Documents](./career-development/brag-documents.md)
 
 ### Command-line
 
