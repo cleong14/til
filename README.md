@@ -26,6 +26,7 @@
 * [Navi](#navi)
 * [Nvim](#nvim)
 * [Productivity](#productivity)
+* [Slack](#slack)
 * [Versioning](#versioning)
 * [Web](#web)
 * [WezTerm](#wezterm)
@@ -128,6 +129,10 @@
 ### Productivity
 
 - [The PARA Method: The Simple System for Organizing Your Digital Life in Seconds](./productivity/the-para-method-the-simple-system-for-organizing-your-digital-life-in-seconds.md)
+
+### Slack
+
+- [Slack Themes](./slack/slack-themes.md)
 
 ### Versioning
 
