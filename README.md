@@ -10,6 +10,7 @@
 
 * [AI](#ai)
 * [Bash](#bash)
+* [Books](#books)
 * [Career Development](#career-development)
 * [Command-line](#command-line)
 * [Cyber Security](#cyber-security)
@@ -50,6 +51,10 @@
 - [How "Exit Traps" Can Make Your Bash Scripts Way More Robust And Reliable](./bash/how-exit-traps-can-make-your-bash-scripts-way-more-robust-and-reliable.md)
 - [Bash Here Documents & Here Strings](./bash/bash-here-documents-and-here-strings.md)
 - [How to Use a Multiline String Command Argument Input & Preserve the String's Newlines in the Output Using "Here Strings" and/or "Here Documents"](./bash/how-to-use-a-multiline-string-command-argument-input-and-preserve-the-strings-newlines-in-the-output-using-here-strings-here-documents.md)
+
+### Books
+
+- ["Tidy First?" by Kent Beck Book Summary](./books/tidy-first-by-kent-beck-book-summary.md)
 
 ### Career Development
 
