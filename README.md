@@ -28,6 +28,7 @@
 * [Nvim](#nvim)
 * [Productivity](#productivity)
 * [Slack](#slack)
+* [Software](#software)
 * [Versioning](#versioning)
 * [Web](#web)
 * [WezTerm](#wezterm)
@@ -138,6 +139,10 @@
 ### Slack
 
 - [Slack Themes](./slack/slack-themes.md)
+
+### Software
+
+- [How to Develop and Ship Software Fast](./software/how-to-develop-and-ship-software-fast.md)
 
 ### Versioning
 
