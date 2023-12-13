@@ -32,6 +32,7 @@
 * [Versioning](#versioning)
 * [Web](#web)
 * [WezTerm](#wezterm)
+* [Window Managers](#window-managers)
 * [Writing](#writing)
 * [Zk](#zk)
 * [Zsh](#zsh)
@@ -155,6 +156,10 @@
 ### WezTerm
 
 - [Fix Fonts After Nerd Fonts Update](./wezterm/fix-fonts-after-nerd-fonts-update.md)
+
+### Window Managers
+
+- [Amethyst Tiling Window Manager for macOS](./window-managers/amethyst-tiling-window-manager-for-macos.md)
 
 ### Writing
 
