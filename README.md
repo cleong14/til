@@ -23,6 +23,7 @@
 * [Homebrew](#homebrew)
 * [Jira](#jira)
 * [Learning](#learning)
+* [M365](#m365)
 * [Mac](#mac)
 * [Navi](#navi)
 * [Nvim](#nvim)
@@ -111,6 +112,10 @@
 ### Learning
 
 - [Adult Learning Theories And Difficulties](./learning/adult-learning-theories-and-difficulties.md)
+
+### M365
+
+- [m365 - The CLI for Microsoft 365](./m365/m365-the-cli-for-microsoft-365.md)
 
 ### Mac
 
