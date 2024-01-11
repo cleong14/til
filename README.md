@@ -179,4 +179,5 @@
 
 - [The Difference Between Using Glob and Noglob When Specifying Zsh Completion Options](./zsh/the-difference-between-using-glob-and-noglob-when-specifying-zsh-completion-options.md)
 - [The `take` Command](./zsh/the-take-command.md)
+- [Zsh Startup Performance Improvements From Splitting Out Zshrc](./zsh/zsh-startup-performance-improvements-from-splitting-out-zshrc.md)
 
