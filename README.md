@@ -24,6 +24,7 @@
 * [Jira](#jira)
 * [Learning](#learning)
 * [M365](#m365)
+* [Microsoft](#microsoft)
 * [Mac](#mac)
 * [Navi](#navi)
 * [Nvim](#nvim)
@@ -116,6 +117,10 @@
 ### M365
 
 - [m365 - The CLI for Microsoft 365](./m365/m365-the-cli-for-microsoft-365.md)
+
+### Microsoft
+
+- [Get All Microsoft Outlook Email Messages From a User Mailbox Using Microsoft Graph API and the CLI](./microsoft/get-all-microsoft-outlook-email-messages-from-a-user-mailbox-using-microsoft-graph-api-and-the-cli.md)
 
 ### Mac
 
