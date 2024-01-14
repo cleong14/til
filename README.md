@@ -18,6 +18,7 @@
 * [Encoding](#encoding)
 * [Espanso](#espanso)
 * [Git](#git)
+* [GitLab](#gitlab)
 * [Go](#go)
 * [Gzip](#gzip)
 * [Homebrew](#homebrew)
@@ -91,6 +92,10 @@
 ### Git
 
 - [Remove Sensitive Data from a Repository Using `git filter-repo`](./git/remove-sensitive-data-from-a-repository-using-git-filter-repo.md)
+
+### GitLab
+
+- [Log GitLab CI Output to Stderr](./gitlab/log-gitlab-ci-output-to-stderr.md)
 
 ### Go
 
