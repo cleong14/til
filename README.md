@@ -69,6 +69,7 @@
 ### Command-line
 
 - [How to Wrap Text to X Characters on the Command Line with fold or fmt](./command-line/how-to-wrap-text-to-x-characters-on-the-command-line-with-fold-or-fmt.md)
+- [How to Query/Diff Results Between a JSON File and a CSV File](./command-line/how-to-query-diff-results-between-a-json-file-and-a-csv-file.md)
 
 ### Cyber Security
 
