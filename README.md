@@ -30,6 +30,7 @@
 * [Navi](#navi)
 * [Nvim](#nvim)
 * [Productivity](#productivity)
+* [Quicktype](#quicktype)
 * [Slack](#slack)
 * [Software](#software)
 * [Versioning](#versioning)
@@ -152,6 +153,10 @@
 ### Productivity
 
 - [The PARA Method: The Simple System for Organizing Your Digital Life in Seconds](./productivity/the-para-method-the-simple-system-for-organizing-your-digital-life-in-seconds.md)
+
+### Quicktype
+
+- [Generate Typed Models and Serializers from JSON, JSON Schema, TypeScript, and GraphQL Queries Easy Using Quicktype](./quicktype/generate-typed-models-and-serializers-from-json-json-schema-typescript-and-graphql-queries-easy-using-quicktype.md)
 
 ### Slack
 
