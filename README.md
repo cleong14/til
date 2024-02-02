@@ -193,6 +193,7 @@
 
 ### Zsh
 
+- [How to Configure Zsh Line Editor (ZLE) Highlighting Behavior when Pasting Text Into the Terminal](./zsh/how-to-configure-zsh-line-editor-zle-highlighting-behavior-when-pasting-text-into-the-terminal.md)
 - [The Difference Between Using Glob and Noglob When Specifying Zsh Completion Options](./zsh/the-difference-between-using-glob-and-noglob-when-specifying-zsh-completion-options.md)
 - [The `take` Command](./zsh/the-take-command.md)
 - [Zsh Startup Performance Improvements From Splitting Out Zshrc](./zsh/zsh-startup-performance-improvements-from-splitting-out-zshrc.md)
