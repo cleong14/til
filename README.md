@@ -51,6 +51,7 @@
 - [AI Prompt - Q&A: How Do I Write Cobra-Cli Command Output to a CSV File in Golang?](./ai/how-do-i-write-cobra-cli-command-output-to-a-csv-file-in-golang.md)
 - [AI Prompt - Q&A: How Do I Write Cobra-Cli Command Output to a JSON File in Golang?](./ai/how-do-i-write-cobra-cli-command-output-to-a-json-file-in-golang.md)
 - [AI Prompt - Q&A: Step-by-Step, How Do You Plan and Structure a 2-3 Day Long Virtual Hackathon Across 6 Different Timezones?](./ai/step-by-step-how-do-you-plan-and-structure-a-2-3-day-long-virtual-hackathon-across-6-different-timezones.md)
+- [Phind - AI Search for Programmers](./ai/phind-ai-search-for-programmers.md)
 
 ### Bash
 
