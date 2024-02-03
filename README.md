@@ -94,6 +94,7 @@
 ### Git
 
 - [Remove Sensitive Data from a Repository Using `git filter-repo`](./git/remove-sensitive-data-from-a-repository-using-git-filter-repo.md)
+- [Use Git WIP Commits vs Git Stashes to Multitask Like a Pro](./git/use-git-wip-commits-vs-git-stashes-to-multitask-like-a-pro.md)
 
 ### GitLab
 
