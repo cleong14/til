@@ -55,6 +55,7 @@
 
 ### Bash
 
+- [Bash Exit Codes With Definitions](./bash/bash-exit-codes-with-definitions.md)
 - [Bash Here Documents & Here Strings](./bash/bash-here-documents-and-here-strings.md)
 - [Common Shell Scripting Mistakes and How to Easily Prevent Them](./bash/common-shell-scripting-mistakes-and-how-to-easily-prevent-them.md)
 - [How "Exit Traps" Can Make Your Bash Scripts Way More Robust And Reliable](./bash/how-exit-traps-can-make-your-bash-scripts-way-more-robust-and-reliable.md)
