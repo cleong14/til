@@ -11,6 +11,7 @@
 * [AI](#ai)
 * [Bash](#bash)
 * [Books](#books)
+* [Brave](#brave)
 * [Career Development](#career-development)
 * [Command-line](#command-line)
 * [Cyber Security](#cyber-security)
@@ -65,6 +66,10 @@
 ### Books
 
 - ["Tidy First?" by Kent Beck Book Summary](./books/tidy-first-by-kent-beck-book-summary.md)
+
+### Brave
+
+- [List of Brave URLs](./brave/list-of-brave-urls.md)
 
 ### Career Development
 
