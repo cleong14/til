@@ -34,6 +34,7 @@
 * [Quicktype](#quicktype)
 * [Slack](#slack)
 * [Software](#software)
+* [Unicode](#unicode)
 * [Versioning](#versioning)
 * [Web](#web)
 * [WezTerm](#wezterm)
@@ -175,6 +176,10 @@
 ### Software
 
 - [How to Develop and Ship Software Fast](./software/how-to-develop-and-ship-software-fast.md)
+
+### Unicode
+
+- [List of Unicode Emojis](./unicode/list-of-unicode-emojis.md)
 
 ### Versioning
 
