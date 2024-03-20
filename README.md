@@ -61,6 +61,7 @@
 - [Bash Here Documents & Here Strings](./bash/bash-here-documents-and-here-strings.md)
 - [Common Shell Scripting Mistakes and How to Easily Prevent Them](./bash/common-shell-scripting-mistakes-and-how-to-easily-prevent-them.md)
 - [How "Exit Traps" Can Make Your Bash Scripts Way More Robust And Reliable](./bash/how-exit-traps-can-make-your-bash-scripts-way-more-robust-and-reliable.md)
+- [How to Send a Job to the Background? How to Send a Job to the Foreground? How to Kill a Job Running in the Background or Foreground?](./bash/how-to-send-a-job-to-the-background-how-to-send-a-job-to-the-foreground-how-to-kill-a-job-running-in-the-background-or-foreground.md)
 - [How to Use a Multiline String Command Argument Input & Preserve the String's Newlines in the Output Using "Here Strings" and/or "Here Documents"](./bash/how-to-use-a-multiline-string-command-argument-input-and-preserve-the-strings-newlines-in-the-output-using-here-strings-here-documents.md)
 - [Use Trap to Cleanup Shell Scripts on EXIT, SIGINT, SIGTERM, Etc.](./bash/use-trap-to-cleanup-shell-scripts-on-exit-sigint-sigterm-etc.md)
 
