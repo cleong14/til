@@ -79,6 +79,7 @@
 
 - [Belbin Team Roles](./career-development/belbin-team-roles.md)
 - [Brag Documents](./career-development/brag-documents.md)
+- [Why you need a "WTF Notebook"](./career-development/why-you-need-a-wtf-notebook.md)
 
 ### Command-line
 
