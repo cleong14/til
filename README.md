@@ -171,6 +171,7 @@
 ### OWASP
 
 - [OWASP Top 10 for Large Language Model Applications](./owasp/owasp-top-10-for-large-language-model-applications.md)
+- [OWASP Vulnerable LLM Applications](./owasp/owasp-vulnerable-llm-applications.md)
 
 ### Productivity
 
