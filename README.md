@@ -30,6 +30,7 @@
 * [Mac](#mac)
 * [Navi](#navi)
 * [Nvim](#nvim)
+* [OWASP](#owasp)
 * [Productivity](#productivity)
 * [Quicktype](#quicktype)
 * [Slack](#slack)
@@ -166,6 +167,10 @@
 - [Nvim Global Variables - Differences Between Vimscript vs Lua](./nvim/nvim-global-variables-differences-between-vimscript-vs-lua.md)
 - [How to Pipe Shell Command Output Into Current Buffer in Vim/Nvim](./nvim/how-to-pipe-shell-command-output-into-current-buffer-in-vim-nvim.md)
 - [Vim/Nvim Motion - Yank From Cursor to End of Line](./nvim/vim-nvim-motion-yank-from-cursor-to-end-of-line.md)
+
+### OWASP
+
+- [OWASP Top 10 for Large Language Model Applications](./owasp/owasp-top-10-for-large-language-model-applications.md)
 
 ### Productivity
 
