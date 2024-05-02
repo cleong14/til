@@ -50,6 +50,7 @@
 
 ### AI
 
+- [AI Prompt Hacking and Jailbreaking LLMs](./ai/ai-prompt-hacking-and-jailbreaking-llms.md)
 - [AI Prompt - Custom: List and Describe 3 Answers for Each Question in a Set of Questions](./ai/list-and-describe-3-answers-for-each-question-in-a-set-of-questions.md)
 - [AI Prompt - Q&A: How Do I Write Cobra-Cli Command Output to a CSV File in Golang?](./ai/how-do-i-write-cobra-cli-command-output-to-a-csv-file-in-golang.md)
 - [AI Prompt - Q&A: How Do I Write Cobra-Cli Command Output to a JSON File in Golang?](./ai/how-do-i-write-cobra-cli-command-output-to-a-json-file-in-golang.md)
