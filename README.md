@@ -18,6 +18,7 @@
 * [DefectDojo](#defectdojo)
 * [Encoding](#encoding)
 * [Espanso](#espanso)
+* [Fonts](#fonts)
 * [Git](#git)
 * [GitLab](#gitlab)
 * [Go](#go)
@@ -109,6 +110,10 @@
 ### Espanso
 
 - [Basic Match Expansion](./espanso/basic-match-expansion.md)
+
+### Fonts
+
+- [Completely Patch a Font With Nerd Fonts Using Font-Patcher](./fonts/completely-patch-a-font-with-nerd-fonts-using-font-patcher.md)
 
 ### Git
 
