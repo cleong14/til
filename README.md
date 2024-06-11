@@ -34,6 +34,7 @@
 * [Nvim](#nvim)
 * [OWASP](#owasp)
 * [Productivity](#productivity)
+* [Python](#python)
 * [Quicktype](#quicktype)
 * [Slack](#slack)
 * [Software](#software)
@@ -187,6 +188,10 @@
 ### Productivity
 
 - [The PARA Method: The Simple System for Organizing Your Digital Life in Seconds](./productivity/the-para-method-the-simple-system-for-organizing-your-digital-life-in-seconds.md)
+
+### Python
+
+- [`pip` vs `pipx`](./python/pip-vs-pipx.md)
 
 ### Quicktype
 
