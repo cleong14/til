@@ -160,6 +160,7 @@
 - [How to Change the macOS Selection Color From the Terminal](./mac/how-to-change-the-macos-selection-color-from-the-terminal.md)
 - [How to Fix "Unable to Build Neovim From Source After Upgrading Macos" Issue](./mac/how-to-fix-unable-to-build-neovim-from-source-after-upgrading-macos-issue.md)
 - [How to Install Java on a Mac Using Homebrew](./mac/how-to-install-java-on-a-mac-using-homebrew.md)
+- [Open Files from Finder in Nvim](./mac/open-files-from-finder-in-nvim.md)
 
 ### Markdown
 
