@@ -16,6 +16,7 @@
 * [Command-line](#command-line)
 * [Cyber Security](#cyber-security)
 * [DefectDojo](#defectdojo)
+* [DevSecOps](#devsecops)
 * [Encoding](#encoding)
 * [Espanso](#espanso)
 * [Fonts](#fonts)
@@ -103,6 +104,10 @@
 
 - [DefectDojo Filter for All Active Findings](./defectdojo/defectdojo-filter-for-all-active-findings.md)
 - [DefectDojo Finding Statuses & How Each Status Affects Future Finding Statuses on (Re)Import-Scan](./defectdojo/defectdojo-finding-statuses-and-how-each-status-affects-future-finding-statuses-on-reimport-import-scan.md)
+
+### DevSecOps
+
+- [Valid Combinations of GOOS (OS) and GOARCH (Architecture)](./devsecops/valid-combinations-of-goos-os-and-goarch-architecture.md)
 
 ### Encoding
 
