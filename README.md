@@ -26,6 +26,7 @@
 * [Gzip](#gzip)
 * [Homebrew](#homebrew)
 * [Jira](#jira)
+* [JQ](#jq)
 * [Learning](#learning)
 * [M365](#m365)
 * [Microsoft](#microsoft)
@@ -147,6 +148,10 @@
 ### Jira
 
 - [Create a New Jira Ticket With Custom Fields From the CLI](./jira/create-a-new-jira-ticket-with-custom-fields-from-the-cli.md)
+
+### JQ
+
+- [Flatten JSON to CSV Using JQ](./jq/flatten-json-to-csv-using-jq.md)
 
 ### Learning
 
