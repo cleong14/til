@@ -27,6 +27,7 @@
 * [Homebrew](#homebrew)
 * [Jira](#jira)
 * [JQ](#jq)
+* [KICS](#kics)
 * [Learning](#learning)
 * [M365](#m365)
 * [Microsoft](#microsoft)
@@ -153,6 +154,10 @@
 ### JQ
 
 - [Flatten JSON to CSV Using JQ](./jq/flatten-json-to-csv-using-jq.md)
+
+### KICS
+
+- [Checkmarx KICS - Queries List](./kics/checkmarx-kics-queries-list.md)
 
 ### Learning
 
